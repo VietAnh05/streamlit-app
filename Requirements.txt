@@ -1,6 +1,8 @@
-streamlit
-tensorflow
-numpy
-pandas
-Pillow
-streamlit-webrtc
+streamlit==1.21.0
+tensorflow==2.11.0
+numpy==1.23.5
+pillow==9.3.0
+pandas==1.5.0
+opencv-python==4.6.0.66
+streamlit-webrtc==0.39.0
+
